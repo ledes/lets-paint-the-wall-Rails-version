@@ -2,7 +2,7 @@
 
 [ ![Codeship Status for ledes/lets-paint-the-wall-Rails-version](https://codeship.com/projects/6f96a620-5e51-0133-d73e-7acfb92b9e01/status?branch=master)](https://codeship.com/projects/111359)
 [![Code Climate](https://codeclimate.com/github/ledes/lets-paint-the-wall-Rails-version/badges/gpa.svg)](https://codeclimate.com/github/ledes/lets-paint-the-wall-Rails-version)
-[![Test Coverage](https://codeclimate.com/github/ledes/lets-paint-the-wall-Rails-version/badges/coverage.svg)](https://codeclimate.com/github/ledes/lets-paint-the-wall-Rails-version/coverage)
+
 
 ### Ruby version
 
