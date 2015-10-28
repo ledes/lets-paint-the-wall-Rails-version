@@ -16,7 +16,9 @@
   - PostgreSQL
 
 ###  Description
-This is the rails version of the Sinatra app "Let's paint the walls".
+This is the rails version of the Sinatra app "Let's paint the walls". Currently under construction.
+The main feature of the app is to change the color of a wall from an uploaded picture. 
+Once that feature is done, the app is supposed to be an interior design social media platform, where users can change and edit how the interior of their house looks like from uploaded images.
 
 ###  ER Diagram
 
