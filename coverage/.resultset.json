@@ -1,0 +1,42 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/pablo/Documents/projects/lets_paint_walls_rails/app/models/user.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/pablo/Documents/projects/lets_paint_walls_rails/app/models/picture.rb": [
+        1,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/pablo/Documents/projects/lets_paint_walls_rails/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/pablo/Documents/projects/lets_paint_walls_rails/app/controllers/homes_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1446039767
+  }
+}
