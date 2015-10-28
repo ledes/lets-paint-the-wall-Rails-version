@@ -9,5 +9,4 @@ class User < ActiveRecord::Base
   validates :avatar, presence: true
   validates :role, presence: true
   validates :email, presence: true
-
 end
